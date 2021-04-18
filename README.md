@@ -11,4 +11,4 @@ This a Java based program which plots the trignometric equation and have feature
 
 ## Main Page
 
-<img src="images/Main-Screen.png">
+[](Images/Main-Screen.png)
